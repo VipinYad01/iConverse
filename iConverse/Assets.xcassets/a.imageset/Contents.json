@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "chat-ai-artificial-intelligence-initial-letter-icon-design-logo_106546-1729-2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

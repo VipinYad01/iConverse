@@ -1,0 +1,14 @@
+# Xcode
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace
+xcuserdata/
+DerivedData/
+Pods/
+build/
+.DS_Store
+
+# Sensitive files
+*.plist
+.env
+
