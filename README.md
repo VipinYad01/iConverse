@@ -26,10 +26,15 @@ iConverse is a **Gemini AI-powered chat bot** built with **SwiftUI**, designed t
 ## 📂 Project Structure
 iConverse/
 │── Models/ # Data models
+
 │── Views/ # SwiftUI screens
+
 │── ViewModels/ # Business logic & state
+
 │── Services/ # API & Firebase handlers
+
 │── Assets/ # Images, icons, resources
+
 │── iConverseApp.swift
 
 ---
