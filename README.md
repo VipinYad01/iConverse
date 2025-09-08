@@ -12,10 +12,14 @@ iConverse is a **Gemini AI-powered chat bot** built with **SwiftUI**, designed t
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend**: SwiftUI  
-- **Backend**: Firebase Authentication  
+## 🛠️ Tech Stack Used
+- **Programming Language**: Swift  
+- **Framework**: SwiftUI  
+- **Backend-as-a-Service (BaaS)**: Firebase  
+  - Authentication (Email/Password)  
 - **AI Engine**: Google Gemini API  
+- **IDE**: Xcode  
+- **Version Control**: Git & GitHub  
 
 ---
 
